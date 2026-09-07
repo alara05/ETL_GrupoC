@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.STG_GrupoC"
+  DTS:DTSID="{F96AA549-E4FF-4E93-92D3-007BE2F8030A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;User ID=;Initial Catalog=STG_GrupoC;Provider=MSOLEDBSQL19.1;Persist Security Info=False;Integrated Security=SSPI;Initial File Name=;Trust Server Certificate=True;Server SPN=;Authentication=;Access Token=;Host Name In Certificate=;Server Certificate=;Application Name=SSIS-ETL_GrupoC-{F96AA549-E4FF-4E93-92D3-007BE2F8030A}LocalHost.STG_GrupoC;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
